@@ -1,0 +1,245 @@
+D:\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\bin\Debug\QuanLyTaiKhoanNganHang.exe.config
+D:\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\bin\Debug\QuanLyTaiKhoanNganHang.exe
+D:\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\bin\Debug\QuanLyTaiKhoanNganHang.pdb
+D:\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.AssemblyReference.cache
+D:\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.SuggestedBindingRedirects.cache
+D:\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.ResolveComReference.cache
+D:\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormBatDau.resources
+D:\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormCaiDat.resources
+D:\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormChuyenTien.resources
+D:\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormDangNhap.resources
+D:\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormGiaoDich.resources
+D:\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormGuiTien.resources
+D:\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormHome.resources
+D:\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormKiemTraSoDu.resources
+D:\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormMayTinh.resources
+D:\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormQuenMatKhau.resources
+D:\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormRutTien.resources
+D:\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormSuaThongTinTaiKhoan.resources
+D:\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormTaoTaiKhoan.resources
+D:\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormThongTinGiaoDich.resources
+D:\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormXoaTaiKhoan.resources
+D:\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.MainForm.resources
+D:\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.Properties.Resources.resources
+D:\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.GenerateResource.cache
+D:\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.CoreCompileInputs.cache
+D:\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.exe
+D:\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.pdb
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\bin\Debug\QuanLyTaiKhoanNganHang.exe.config
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\bin\Debug\QuanLyTaiKhoanNganHang.exe
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\bin\Debug\QuanLyTaiKhoanNganHang.pdb
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormBatDau.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormCaiDat.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormChuyenTien.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormDangNhap.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormGiaoDich.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormGuiTien.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormHome.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormKiemTraSoDu.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormMayTinh.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormQuenMatKhau.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormRutTien.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormSuaThongTinTaiKhoan.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormTaoTaiKhoan.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormThongTinGiaoDich.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormXoaTaiKhoan.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.MainForm.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.Properties.Resources.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.exe
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.pdb
+C:\Users\Admin\OneDrive\Máy tính\baitapcnpm\QuanLyNganHang\QuanLyTaiKhoanNganHang\bin\Debug\QuanLyTaiKhoanNganHang.exe.config
+C:\Users\Admin\OneDrive\Máy tính\baitapcnpm\QuanLyNganHang\QuanLyTaiKhoanNganHang\bin\Debug\QuanLyTaiKhoanNganHang.exe
+C:\Users\Admin\OneDrive\Máy tính\baitapcnpm\QuanLyNganHang\QuanLyTaiKhoanNganHang\bin\Debug\QuanLyTaiKhoanNganHang.pdb
+C:\Users\Admin\OneDrive\Máy tính\baitapcnpm\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\baitapcnpm\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Máy tính\baitapcnpm\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.ResolveComReference.cache
+C:\Users\Admin\OneDrive\Máy tính\baitapcnpm\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormBatDau.resources
+C:\Users\Admin\OneDrive\Máy tính\baitapcnpm\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormCaiDat.resources
+C:\Users\Admin\OneDrive\Máy tính\baitapcnpm\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormChuyenTien.resources
+C:\Users\Admin\OneDrive\Máy tính\baitapcnpm\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormDangNhap.resources
+C:\Users\Admin\OneDrive\Máy tính\baitapcnpm\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormGiaoDich.resources
+C:\Users\Admin\OneDrive\Máy tính\baitapcnpm\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormGuiTien.resources
+C:\Users\Admin\OneDrive\Máy tính\baitapcnpm\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormHome.resources
+C:\Users\Admin\OneDrive\Máy tính\baitapcnpm\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormKiemTraSoDu.resources
+C:\Users\Admin\OneDrive\Máy tính\baitapcnpm\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormMayTinh.resources
+C:\Users\Admin\OneDrive\Máy tính\baitapcnpm\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormQuenMatKhau.resources
+C:\Users\Admin\OneDrive\Máy tính\baitapcnpm\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormRutTien.resources
+C:\Users\Admin\OneDrive\Máy tính\baitapcnpm\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormSuaThongTinTaiKhoan.resources
+C:\Users\Admin\OneDrive\Máy tính\baitapcnpm\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormTaoTaiKhoan.resources
+C:\Users\Admin\OneDrive\Máy tính\baitapcnpm\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormThongTinGiaoDich.resources
+C:\Users\Admin\OneDrive\Máy tính\baitapcnpm\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormXoaTaiKhoan.resources
+C:\Users\Admin\OneDrive\Máy tính\baitapcnpm\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.MainForm.resources
+C:\Users\Admin\OneDrive\Máy tính\baitapcnpm\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\baitapcnpm\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\baitapcnpm\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\baitapcnpm\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.exe
+C:\Users\Admin\OneDrive\Máy tính\baitapcnpm\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.pdb
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\bin\Debug\QuanLyTaiKhoanNganHang.exe.config
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\bin\Debug\QuanLyTaiKhoanNganHang.exe
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\bin\Debug\QuanLyTaiKhoanNganHang.pdb
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormBatDau.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormCaiDat.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormChuyenTien.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormDangNhap.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormGiaoDich.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormGuiTien.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormHome.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormKiemTraSoDu.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormMayTinh.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormQuenMatKhau.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormRutTien.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormSuaThongTinTaiKhoan.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormTaoTaiKhoan.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormThongTinGiaoDich.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormXoaTaiKhoan.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.MainForm.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.Properties.Resources.resources
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.exe
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.pdb
+C:\Users\Hai\Desktop\qlnnnew\QuanLyNganHang\QuanLyTaiKhoanNganHang\bin\Debug\QuanLyTaiKhoanNganHang.exe.config
+C:\Users\Hai\Desktop\qlnnnew\QuanLyNganHang\QuanLyTaiKhoanNganHang\bin\Debug\QuanLyTaiKhoanNganHang.exe
+C:\Users\Hai\Desktop\qlnnnew\QuanLyNganHang\QuanLyTaiKhoanNganHang\bin\Debug\QuanLyTaiKhoanNganHang.pdb
+C:\Users\Hai\Desktop\qlnnnew\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.AssemblyReference.cache
+C:\Users\Hai\Desktop\qlnnnew\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hai\Desktop\qlnnnew\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.ResolveComReference.cache
+C:\Users\Hai\Desktop\qlnnnew\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormBatDau.resources
+C:\Users\Hai\Desktop\qlnnnew\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormCaiDat.resources
+C:\Users\Hai\Desktop\qlnnnew\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormChuyenTien.resources
+C:\Users\Hai\Desktop\qlnnnew\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormDangNhap.resources
+C:\Users\Hai\Desktop\qlnnnew\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormGiaoDich.resources
+C:\Users\Hai\Desktop\qlnnnew\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormGuiTien.resources
+C:\Users\Hai\Desktop\qlnnnew\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormHome.resources
+C:\Users\Hai\Desktop\qlnnnew\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormKiemTraSoDu.resources
+C:\Users\Hai\Desktop\qlnnnew\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormMayTinh.resources
+C:\Users\Hai\Desktop\qlnnnew\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormQuenMatKhau.resources
+C:\Users\Hai\Desktop\qlnnnew\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormRutTien.resources
+C:\Users\Hai\Desktop\qlnnnew\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormSuaThongTinTaiKhoan.resources
+C:\Users\Hai\Desktop\qlnnnew\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormTaoTaiKhoan.resources
+C:\Users\Hai\Desktop\qlnnnew\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormThongTinGiaoDich.resources
+C:\Users\Hai\Desktop\qlnnnew\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormXoaTaiKhoan.resources
+C:\Users\Hai\Desktop\qlnnnew\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.MainForm.resources
+C:\Users\Hai\Desktop\qlnnnew\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.Properties.Resources.resources
+C:\Users\Hai\Desktop\qlnnnew\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.GenerateResource.cache
+C:\Users\Hai\Desktop\qlnnnew\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.CoreCompileInputs.cache
+C:\Users\Hai\Desktop\qlnnnew\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.exe
+C:\Users\Hai\Desktop\qlnnnew\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.pdb
+C:\Users\Admin\Desktop\QuanLyTaiKhoanNganHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormKhachHang.resources
+C:\Users\Admin\Desktop\QuanLyNganTaiKhoanHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\bin\Debug\QuanLyTaiKhoanNganHang.exe.config
+C:\Users\Admin\Desktop\QuanLyNganTaiKhoanHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\bin\Debug\QuanLyTaiKhoanNganHang.exe
+C:\Users\Admin\Desktop\QuanLyNganTaiKhoanHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\bin\Debug\QuanLyTaiKhoanNganHang.pdb
+C:\Users\Admin\Desktop\QuanLyNganTaiKhoanHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyNganTaiKhoanHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\QuanLyNganTaiKhoanHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\QuanLyNganTaiKhoanHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormBatDau.resources
+C:\Users\Admin\Desktop\QuanLyNganTaiKhoanHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormCaiDat.resources
+C:\Users\Admin\Desktop\QuanLyNganTaiKhoanHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormChuyenTien.resources
+C:\Users\Admin\Desktop\QuanLyNganTaiKhoanHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormDangNhap.resources
+C:\Users\Admin\Desktop\QuanLyNganTaiKhoanHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormGiaoDich.resources
+C:\Users\Admin\Desktop\QuanLyNganTaiKhoanHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormGuiTien.resources
+C:\Users\Admin\Desktop\QuanLyNganTaiKhoanHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormHome.resources
+C:\Users\Admin\Desktop\QuanLyNganTaiKhoanHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormKhachHang.resources
+C:\Users\Admin\Desktop\QuanLyNganTaiKhoanHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormKiemTraSoDu.resources
+C:\Users\Admin\Desktop\QuanLyNganTaiKhoanHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormMayTinh.resources
+C:\Users\Admin\Desktop\QuanLyNganTaiKhoanHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormQuenMatKhau.resources
+C:\Users\Admin\Desktop\QuanLyNganTaiKhoanHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormRutTien.resources
+C:\Users\Admin\Desktop\QuanLyNganTaiKhoanHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormSuaThongTinTaiKhoan.resources
+C:\Users\Admin\Desktop\QuanLyNganTaiKhoanHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormTaoTaiKhoan.resources
+C:\Users\Admin\Desktop\QuanLyNganTaiKhoanHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormThongTinGiaoDich.resources
+C:\Users\Admin\Desktop\QuanLyNganTaiKhoanHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormXoaTaiKhoan.resources
+C:\Users\Admin\Desktop\QuanLyNganTaiKhoanHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.MainForm.resources
+C:\Users\Admin\Desktop\QuanLyNganTaiKhoanHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.Properties.Resources.resources
+C:\Users\Admin\Desktop\QuanLyNganTaiKhoanHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QuanLyNganTaiKhoanHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuanLyNganTaiKhoanHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.exe
+C:\Users\Admin\Desktop\QuanLyNganTaiKhoanHang\QuanLyNganTaiKhoanHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.pdb
+C:\Users\admin\OneDrive\Desktop\DoAn2023\QLTKNH1\QuanLyNganHang\QuanLyTaiKhoanNganHang\bin\Debug\QuanLyTaiKhoanNganHang.exe.config
+C:\Users\admin\OneDrive\Desktop\DoAn2023\QLTKNH1\QuanLyNganHang\QuanLyTaiKhoanNganHang\bin\Debug\QuanLyTaiKhoanNganHang.exe
+C:\Users\admin\OneDrive\Desktop\DoAn2023\QLTKNH1\QuanLyNganHang\QuanLyTaiKhoanNganHang\bin\Debug\QuanLyTaiKhoanNganHang.pdb
+C:\Users\admin\OneDrive\Desktop\DoAn2023\QLTKNH1\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\DoAn2023\QLTKNH1\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.ResolveComReference.cache
+C:\Users\admin\OneDrive\Desktop\DoAn2023\QLTKNH1\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormBatDau.resources
+C:\Users\admin\OneDrive\Desktop\DoAn2023\QLTKNH1\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormCaiDat.resources
+C:\Users\admin\OneDrive\Desktop\DoAn2023\QLTKNH1\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormChuyenTien.resources
+C:\Users\admin\OneDrive\Desktop\DoAn2023\QLTKNH1\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormDangNhap.resources
+C:\Users\admin\OneDrive\Desktop\DoAn2023\QLTKNH1\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormGiaoDich.resources
+C:\Users\admin\OneDrive\Desktop\DoAn2023\QLTKNH1\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormGuiTien.resources
+C:\Users\admin\OneDrive\Desktop\DoAn2023\QLTKNH1\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormHome.resources
+C:\Users\admin\OneDrive\Desktop\DoAn2023\QLTKNH1\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormKhachHang.resources
+C:\Users\admin\OneDrive\Desktop\DoAn2023\QLTKNH1\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormKiemTraSoDu.resources
+C:\Users\admin\OneDrive\Desktop\DoAn2023\QLTKNH1\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormMayTinh.resources
+C:\Users\admin\OneDrive\Desktop\DoAn2023\QLTKNH1\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormQuenMatKhau.resources
+C:\Users\admin\OneDrive\Desktop\DoAn2023\QLTKNH1\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormRutTien.resources
+C:\Users\admin\OneDrive\Desktop\DoAn2023\QLTKNH1\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormSuaThongTinTaiKhoan.resources
+C:\Users\admin\OneDrive\Desktop\DoAn2023\QLTKNH1\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormTaoTaiKhoan.resources
+C:\Users\admin\OneDrive\Desktop\DoAn2023\QLTKNH1\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormThongTinGiaoDich.resources
+C:\Users\admin\OneDrive\Desktop\DoAn2023\QLTKNH1\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormXoaTaiKhoan.resources
+C:\Users\admin\OneDrive\Desktop\DoAn2023\QLTKNH1\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.MainForm.resources
+C:\Users\admin\OneDrive\Desktop\DoAn2023\QLTKNH1\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.Properties.Resources.resources
+C:\Users\admin\OneDrive\Desktop\DoAn2023\QLTKNH1\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Desktop\DoAn2023\QLTKNH1\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\DoAn2023\QLTKNH1\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.exe
+C:\Users\admin\OneDrive\Desktop\DoAn2023\QLTKNH1\QuanLyNganHang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.pdb
+D:\ĐỒ ÁN 1\Nganhang\QuanLyTaiKhoanNganHang\bin\Debug\QuanLyTaiKhoanNganHang.exe.config
+D:\ĐỒ ÁN 1\Nganhang\QuanLyTaiKhoanNganHang\bin\Debug\QuanLyTaiKhoanNganHang.exe
+D:\ĐỒ ÁN 1\Nganhang\QuanLyTaiKhoanNganHang\bin\Debug\QuanLyTaiKhoanNganHang.pdb
+D:\ĐỒ ÁN 1\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN 1\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.ResolveComReference.cache
+D:\ĐỒ ÁN 1\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormBatDau.resources
+D:\ĐỒ ÁN 1\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormCaiDat.resources
+D:\ĐỒ ÁN 1\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormChuyenTien.resources
+D:\ĐỒ ÁN 1\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormDangNhap.resources
+D:\ĐỒ ÁN 1\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormGiaoDich.resources
+D:\ĐỒ ÁN 1\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormGuiTien.resources
+D:\ĐỒ ÁN 1\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormHome.resources
+D:\ĐỒ ÁN 1\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormKhachHang.resources
+D:\ĐỒ ÁN 1\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormKiemTraSoDu.resources
+D:\ĐỒ ÁN 1\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormMayTinh.resources
+D:\ĐỒ ÁN 1\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormQuenMatKhau.resources
+D:\ĐỒ ÁN 1\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormRutTien.resources
+D:\ĐỒ ÁN 1\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormSuaThongTinTaiKhoan.resources
+D:\ĐỒ ÁN 1\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormTaoTaiKhoan.resources
+D:\ĐỒ ÁN 1\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormThongTinGiaoDich.resources
+D:\ĐỒ ÁN 1\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormXoaTaiKhoan.resources
+D:\ĐỒ ÁN 1\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.MainForm.resources
+D:\ĐỒ ÁN 1\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.Properties.Resources.resources
+D:\ĐỒ ÁN 1\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.GenerateResource.cache
+D:\ĐỒ ÁN 1\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN 1\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.exe
+D:\ĐỒ ÁN 1\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.pdb
+D:\Nganhang\Nganhang\QuanLyTaiKhoanNganHang\bin\Debug\QuanLyTaiKhoanNganHang.exe.config
+D:\Nganhang\Nganhang\QuanLyTaiKhoanNganHang\bin\Debug\QuanLyTaiKhoanNganHang.exe
+D:\Nganhang\Nganhang\QuanLyTaiKhoanNganHang\bin\Debug\QuanLyTaiKhoanNganHang.pdb
+D:\Nganhang\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.AssemblyReference.cache
+D:\Nganhang\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.ResolveComReference.cache
+D:\Nganhang\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormBatDau.resources
+D:\Nganhang\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormCaiDat.resources
+D:\Nganhang\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormChuyenTien.resources
+D:\Nganhang\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormDangNhap.resources
+D:\Nganhang\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormGiaoDich.resources
+D:\Nganhang\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormGuiTien.resources
+D:\Nganhang\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormHome.resources
+D:\Nganhang\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormKhachHang.resources
+D:\Nganhang\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormKiemTraSoDu.resources
+D:\Nganhang\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormMayTinh.resources
+D:\Nganhang\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormQuenMatKhau.resources
+D:\Nganhang\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormRutTien.resources
+D:\Nganhang\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormSuaThongTinTaiKhoan.resources
+D:\Nganhang\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormTaoTaiKhoan.resources
+D:\Nganhang\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormThongTinGiaoDich.resources
+D:\Nganhang\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.FormXoaTaiKhoan.resources
+D:\Nganhang\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.MainForm.resources
+D:\Nganhang\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.Properties.Resources.resources
+D:\Nganhang\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.GenerateResource.cache
+D:\Nganhang\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.csproj.CoreCompileInputs.cache
+D:\Nganhang\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.exe
+D:\Nganhang\Nganhang\QuanLyTaiKhoanNganHang\obj\Debug\QuanLyTaiKhoanNganHang.pdb
